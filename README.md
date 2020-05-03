@@ -2,6 +2,8 @@
 
 High-level socket interface for non-blocking packet communication.
 
+[Github](https://github.com/Dead-Man-Walker/python-packetsocket)
+
 ## Description
 
 packetsocket provides a simple, high-level class interface for non-blocking
